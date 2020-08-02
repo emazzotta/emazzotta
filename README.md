@@ -12,6 +12,7 @@ What else?
 * I love bouldering 🧗‍♀️
 * I love indoor skydiving 💨
 * I love making coffee ☕️ (Comandante + Aeropress ❤️)
+* I love Tesla 🚗🔋🌞🍃
 
 <details>
   <summary><b>:telescope: Life goal</b></summary>
