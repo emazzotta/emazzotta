@@ -3,4 +3,4 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 What else?
 * I love bouldering 🧗‍♀️
 * I love indoor skydiving 💨
-* I love making coffee ☕️ (Commandante + Aeropress ❤️)
+* I love making coffee ☕️ (Comandante + Aeropress ❤️)
