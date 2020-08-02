@@ -16,5 +16,5 @@ What else?
 
 <details>
   <summary><b>:telescope: Life goal</b></summary>
-  I want to leave the world better than I found it.
+  "Leave the world better than you found it."
 </details>
