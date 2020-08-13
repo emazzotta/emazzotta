@@ -8,6 +8,8 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 [![Keybase](https://img.shields.io/badge/Keybase--_.svg?style=social&logo=keybase)](https://keybase.io/emazzotta)
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA)](https://github.com/sponsors/emazzotta)
 
+[![emazzotta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emazzotta&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/emazzotta)
+
 What else?
 * I love bouldering 🧗‍♀️
 * I love indoor skydiving 💨
