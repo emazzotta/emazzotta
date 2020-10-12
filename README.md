@@ -18,5 +18,5 @@ What else?
 
 <details>
   <summary><b>:telescope: Life goal</b></summary>
-  "Leave the world better than you found it."
+  "Leave this world a little better than you found it." - Robert Baden-Powell
 </details>
