@@ -12,7 +12,7 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 
 What else?
 * I love bouldering 🧗‍♀️
-* I love indoor skydiving 💨
+* I love indoor skydiving 🏢🪂
 * I love making coffee ☕️ (Comandante + Aeropress ❤️)
 * I love Tesla 🚗🔋🌞🍃
 
