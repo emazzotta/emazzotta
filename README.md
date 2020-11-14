@@ -14,6 +14,7 @@ What else?
 * I love bouldering 🧗‍♀️
 * I love indoor skydiving 🏢🪂
 * I love making coffee ☕️ (Comandante + Aeropress ❤️)
+* I love techno 🔊
 * I love Tesla 🚗🔋🌞🍃
 
 <details>
