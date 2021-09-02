@@ -11,7 +11,7 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 [![emazzotta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emazzotta&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/emazzotta)
 
 What else?
-* I love bouldering 🧗‍♀️
+* I love climbing & bouldering 🧗‍♀️
 * I love indoor skydiving 🏢🪂
 * I love making coffee ☕️ (Comandante + Aeropress ❤️)
 * I love techno 🔊
