@@ -10,7 +10,7 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 
 <details>
   <summary>:zap: GitHub Stats</summary>
-  [![emazzotta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emazzotta&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/emazzotta)
+  <img align="left" alt="emazzotta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emazzotta&count_private=true&show_icons=true&theme=tokyonight" />
 </details>
 
 <details>
