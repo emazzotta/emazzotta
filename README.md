@@ -9,14 +9,14 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 [![GitHub Sponsors](https://img.shields.io/badge/GitHub_Sponsors--_.svg?style=social&logo=github&logoColor=EA4AAA)](https://github.com/sponsors/emazzotta)
 
 <details>
-  <summary>&nbsp;:zap: GitHub Stats</summary>
+  <summary>&nbsp;⚡️ GitHub Stats</summary>
   <br />
   <img alt="emazzotta's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=emazzotta&count_private=true&show_icons=true&theme=tokyonight" />
   <br />
 </details>
 
 <details>
-  <summary>&nbsp;:eyes: What else?</summary>
+  <summary>&nbsp;👀 What else?</summary>
   <ul>
     <li>I love climbing & bouldering 🧗‍♀️</li>
     <li>I love indoor skydiving 🏢🪂</li>
@@ -27,7 +27,7 @@ Hi there 👋 my name is Emanuele. I'm passionate about building software. I fee
 </details>
 
 <details>
-  <summary>&nbsp;:telescope: Life goal</summary>
+  <summary>&nbsp;🔭 Life goal</summary>
   <br />
   "Leave this world a little better than you found it." - Robert Baden-Powell
 </details>
